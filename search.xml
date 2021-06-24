@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>部署教程</title>
+      <link href="posts/2483.html"/>
+      <url>posts/2483.html</url>
+      
+        <content type="html"><![CDATA[<ol><li>下载主题</li><li>运行<code>npm i</code>自动安装所需依赖</li><li>更改个人信息及所需配置</li><li>更改<code>_config.yml</code> 中 <code>deploy</code> 仓库地址</li><li>运行<code>hexo cl&amp;&amp;hexo g&amp;&amp;hexo d</code></li></ol>]]></content>
+      
+      
+      <categories>
+          
+          <category> Blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+            <tag> hexo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>essay-life</title>
+      <link href="posts/980.html"/>
+      <url>posts/980.html</url>
+      
+        <content type="html"><![CDATA[<div class="ipage">    <div class="ititle">节选自《你若安好便是晴天》- 前言</div>    <div class="izhengwen">        <p>生活，有时感觉莫名的心烦。心烦的时候，最好的是沉默。</p>        <p>不必喝酒，出去走走，那小路和树林，那天空和海滩，那山风和淡云，就在身旁；</p>        <p>不必多怨，言多不逊，执一本书，在阳光下，微笑着面对一切，聆听一切；</p>        <p>不必伤怀，曲折有度，也许过了就算了，算了就消失了。</p>        <p>心烦，其实只是人的一种心情，看淡了，就习惯了。</p>        <p>生活，有时真的让人无语，令人心碎。</p>        <p>只是，既是自己选择的路，跪着也要走下去。</p>        <p>自己扛下的事，留着泪也要做好。</p>        <p>而有些情，舍不得也得放下，哪怕心再痛再苦。</p>        <p>其实，缘来缘去的个中滋味，只有岁月懂得，也只有自己深深懂得!</p>        <p>生活，有时候其实很简单。</p>        <p>生活，不过是一份发自内心的微笑；</p>        <p>是一种清淡如水的心态，对苦难，对幸福，对整个人生；</p>        <p>更是一本永远也读不完的书，有故事，有梦想，有难以言说的情怀。</p>        <p>倘若有天，在一个阳光温热的午后，树荫下，你会发现：净是如此美丽 !</p>        <p>亲爱的，很多时候不是生活抛弃了你，而是你抛弃了生活本身。</p>    </div></div>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> 请相信生活 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
