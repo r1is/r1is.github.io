@@ -102,7 +102,7 @@
 
   <url>
     <loc>https://ryzezr.com/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -110,28 +110,28 @@
   
   <url>
     <loc>https://ryzezr.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ryzezr.com/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ryzezr.com/tags/blog/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ryzezr.com/tags/hexo/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -140,14 +140,14 @@
   
   <url>
     <loc>https://ryzezr.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://ryzezr.com/categories/Blog/</loc>
-    <lastmod>2021-06-24</lastmod>
+    <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
