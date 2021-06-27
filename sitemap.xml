@@ -9,20 +9,6 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/posts/2483.html</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://ryzezr.com/posts/980.html</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/about/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -44,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/tags/index.html</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/navigate/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -59,6 +38,13 @@
   
   <url>
     <loc>https://ryzezr.com/supervise/index.html</loc>
+    
+    <lastmod>2021-06-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ryzezr.com/tags/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -116,20 +102,6 @@
 
   
   <url>
-    <loc>https://ryzezr.com/tags/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryzezr.com/tags/%E8%AF%B7%E7%9B%B8%E4%BF%A1%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/tags/ssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
     <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
@@ -143,38 +115,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://ryzezr.com/tags/blog/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryzezr.com/tags/hexo/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://ryzezr.com/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/categories/%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2021-06-27</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://ryzezr.com/categories/Blog/</loc>
     <lastmod>2021-06-27</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
