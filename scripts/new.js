@@ -8,6 +8,6 @@ var spawn = require('child_process').exec;
 // Hexo 3 用户复制这段
 hexo.on('new', function(data){
 //  Mac
-    spawn('open "/Applications/Typora.app" ' + data.path);
-//  spawn('start  "F:\Typora\Typora\Typora.exe" ' + data.path);
+//  spawn('open "/Applications/Typora.app" ' + data.path);
+    spawn('start  "D:\Microsoft VS Code\Code.exe" ' + data.path);
 });

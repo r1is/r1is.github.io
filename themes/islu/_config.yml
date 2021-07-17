@@ -87,7 +87,7 @@ dream:
 # 加载动画
 loading:
   enable: true
-  time: 500 # 强制开启loading动画的时间 1000=1s,默认为0.5s
+  time: 1000 # 强制开启loading动画的时间 1000=1s,默认为0.5s
 
 # 首页引导.
 instantpage:
@@ -247,16 +247,16 @@ profile:
 myProjects:
   enable: true
   data:
-    一号店商城Demo:
-        icon: fas fa-database
-        iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
-        url: https://ialoe.gitee.io/yihaodian/
-        desc: 一号店商城首页Demo(纯HTML+CSS)
-    水果管理系统:
-      icon: fas fa-file-alt
-      iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
-      url: https://gitee.com/ialoe/fruit
-      desc: 在JSP页面对数据库中水果数据实现增删改查(页面待美化...)
+ #   一号店商城Demo:
+ #       icon: fas fa-database
+ #       iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
+ #       url: https://ialoe.gitee.io/yihaodian/
+ #       desc: 一号店商城首页Demo(纯HTML+CSS)
+ #   水果管理系统:
+ #     icon: fas fa-file-alt
+ #     iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
+ #     url: https://gitee.com/ialoe/fruit
+ #     desc: 在JSP页面对数据库中水果数据实现增删改查(页面待美化...)
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
