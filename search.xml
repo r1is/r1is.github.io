@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>基础正则语法</title>
+      <link href="posts/42609.html"/>
+      <url>posts/42609.html</url>
+      
+        <content type="html"><![CDATA[<h2 id="正则表达式语法"><a href="#正则表达式语法" class="headerlink" title="正则表达式语法:"></a>正则表达式语法:</h2><ul><li>   a|b         匹配 a 或 b</li><li>   gr(a|e)y         匹配 gray 或 grey</li><li>   .         匹配任一字符</li><li>   [abc]         匹配任一字符: a 或 b 或 c</li><li>   [^abc]         匹配任一字符, 但不包括 a, b, c</li><li>   [a-z]         匹配从 a 到 z 之间的任一字符</li><li>   [a-zA-Z]         匹配从 a 到 z, 及从 A 到 Z 之间的任一字符</li><li>   ^         匹配文件名的头部</li><li>   $         匹配文件名的尾部</li><li>   ( )         匹配标记的子表达式</li><li>   \n         匹配第 nth 个标记的子表达式, nth 代表 1 到 9</li><li>   \b         匹配字词边界</li><li><ul><li><pre><code>    匹配前一项内容 0 或多次</code></pre></li></ul></li><li>   ?         匹配前一项内容 0 或 1 次</li><li><ul><li><pre><code>    匹配前一项内容 1 或多次</code></pre></li></ul></li><li>   *?         匹配前一项内容 0 或多次 (懒人模式)</li><li>   +?         匹配前一项内容 1 或多次 (懒人模式)</li><li>   {x}         匹配前一项内容 x 次</li><li>   {x,}         匹配前一项内容 x 或多次</li><li>   {x,y}         匹配前一项内容次数介于 x 和 y 之间</li><li>   \         特殊转义字符</li></ul>]]></content>
+      
+      
+      <categories>
+          
+          <category> CR逆向学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 正则 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>二(维)维数组与指针</title>
       <link href="posts/13736.html"/>
       <url>posts/13736.html</url>
