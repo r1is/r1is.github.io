@@ -1,7 +1,7 @@
 ---
 title: Linux PAM后门学习
 author: Ryze
-img: https://miro.medium.com/max/550/0*ltCYgE0BcsaNw16b.png
+img: https://images.pexels.com/photos/2739013/pexels-photo-2739013.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260
 top: false
 cover: true
 toc: true
