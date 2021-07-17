@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://ryzezr.com/posts/40072.html</loc>
+    
+    <lastmod>2021-07-17</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://ryzezr.com/posts/32019.html</loc>
     
     <lastmod>2021-06-27</lastmod>
@@ -23,14 +30,14 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/av/index.html</loc>
+    <loc>https://ryzezr.com/404/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ryzezr.com/404/index.html</loc>
+    <loc>https://ryzezr.com/av/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -44,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/friends/index.html</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/contact/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -58,7 +58,14 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/rewardModal/index.html</loc>
+    <loc>https://ryzezr.com/friends/index.html</loc>
+    
+    <lastmod>2021-06-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ryzezr.com/journal/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -72,7 +79,7 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/journal/index.html</loc>
+    <loc>https://ryzezr.com/rewardModal/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -129,6 +136,13 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -140,6 +154,13 @@
   
   <url>
     <loc>https://ryzezr.com/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
