@@ -9,3 +9,6 @@
 4. 更改`_config.yml` 中 `deploy` 仓库地址为自己的仓库地址
 5. 运行`hexo cl&&hexo g&&hexo d`
 6. 成功！
+## 备份主题
+- 分支hexo储存的是网站的原始文件
+- 分支master用来储存生成的静态网页

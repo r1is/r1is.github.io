@@ -105,7 +105,7 @@ theme: islu
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   - type: git
-    repo: https://github.com/RyzeZR/RyzeZR.github.io.git
+    repo: git@github.com:RyzeZR/RyzeZR.github.io.git
 #   repo: ssh://root@121.5.167.35:12561/root/blog.git # 此处为共有仓库名
     branch: master
 #  - type: baidu_url_submitter # 若开启百度主动提交则可取消注释
@@ -166,7 +166,7 @@ baidu_url_submit:
 # 看板娘
 ## 默认支持tororo(白色猫咪)
 live2d:
-    enable: true # 是否开启看板娘
+    enable: false # 是否开启看板娘
     scriptFrom: local
     pluginRootPath: live2dw/
     pluginJsPath: lib/
