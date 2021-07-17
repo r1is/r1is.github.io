@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>函数调用内存结构简要分析</title>
+      <link href="posts/14982.html"/>
+      <url>posts/14982.html</url>
+      
+        <content type="html"><![CDATA[<h3 id="函数调用流程"><a href="#函数调用流程" class="headerlink" title="函数调用流程"></a>函数调用流程</h3><ol><li>按调用约定传递参数<br>1.1. 调用约定 调用方（caller）需要和被调方（callee）作出以下约定：<ol><li>参数的传递方向</li><li>参数的传输媒介（寄存器 or 栈）</li><li>函数返回值的位置</li><li>释放参数空间的负责方，有且仅有一方去释放参数空间</li></ol></li></ol><hr><p><code>_cdecl</code>: 参数使用栈空间传递，从右往左，函数返回值在寄存器，由调用方负责释放参数空间</p><p><code>_stdcall</code>: 参数使用栈空间传递，从右往左，函数返回值在寄存器，由<strong>被</strong>调用方负责释放参数空间<br><code>_fastcall</code>: 左数前两个参数使用寄存器传递，其他参数使用栈空间传递，函数返回值在寄存器，由<strong>被</strong>调用方负责释放参数空间<br>[scode type=”share”]<code>_cdecl</code>为默认，<code>_stdcall</code>是标准 约定，<code>_fastcall</code> windows下实现[/scode]</p><ol start="2"><li>保存返回地址</li><li>保存调用方的栈信息</li><li>更新当前栈底到栈顶（把当前栈顶作为被调方的栈底）</li><li>为局部变量申请栈空间（抬高栈顶）</li><li>保存寄存器环境（把即将使用的寄存中的原值存放在栈中）</li><li><ul><li>如果编译选项带有 /ZI ，则将局部变量空间初始化为<code>ox CCCC CCCC</code></li></ul></li></ol><hr><hr><ol start="8"><li>执行函数体</li><li>恢复寄存器环境</li><li>释放局部变量</li><li>恢复调用方栈信息（栈底）</li></ol><h4 id="进入main函数之前"><a href="#进入main函数之前" class="headerlink" title="进入main函数之前"></a>进入main函数之前</h4><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045212.png" alt="image.png"></p><h4 id="进入main函数"><a href="#进入main函数" class="headerlink" title="进入main函数"></a>进入main函数</h4><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045229.png" alt="image.png"></p><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045244.png" alt="image.png"></p><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045301.png" alt="image.png"></p><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045317.png" alt="image.png"></p><p><img src="./medias/detail/load.gif" data-original="https://cdn.jsdelivr.net/gh/RyzeZR/blog/note-img/20210718045335.png" alt="image.png"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> CR逆向学习 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> C语言入门 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基础正则语法</title>
       <link href="posts/42609.html"/>
       <url>posts/42609.html</url>
