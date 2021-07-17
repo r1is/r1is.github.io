@@ -44,13 +44,6 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/categories/index.html</loc>
-    
-    <lastmod>2021-06-24</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://ryzezr.com/av/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
@@ -58,7 +51,7 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/friends/index.html</loc>
+    <loc>https://ryzezr.com/categories/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -66,6 +59,13 @@
   
   <url>
     <loc>https://ryzezr.com/contact/index.html</loc>
+    
+    <lastmod>2021-06-24</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://ryzezr.com/friends/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -100,14 +100,14 @@
   </url>
   
   <url>
-    <loc>https://ryzezr.com/time/index.html</loc>
+    <loc>https://ryzezr.com/tags/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
   </url>
   
   <url>
-    <loc>https://ryzezr.com/tags/index.html</loc>
+    <loc>https://ryzezr.com/time/index.html</loc>
     
     <lastmod>2021-06-24</lastmod>
     
@@ -121,13 +121,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>https://ryzezr.com/tags/Linux%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-07-17</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
   
   <url>
     <loc>https://ryzezr.com/tags/ssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/</loc>
@@ -144,6 +137,13 @@
   </url>
   
   <url>
+    <loc>https://ryzezr.com/tags/Linux%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/</loc>
     <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
@@ -153,14 +153,14 @@
 
   
   <url>
-    <loc>https://ryzezr.com/categories/Linux/</loc>
+    <loc>https://ryzezr.com/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://ryzezr.com/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>https://ryzezr.com/categories/Linux/</loc>
     <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
