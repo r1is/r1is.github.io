@@ -44,9 +44,9 @@ menu:
       - name: 友情链接
         url: /friends
         icon: fas fa-address-book
-      - name: 影乐观赏
-        url: /av
-        icon: fas fa-music
+#      - name: 影乐观赏
+#        url: /av
+#        icon: fas fa-music
       - name: 常用网站
         url: /navigate
         icon: fas fa-location-arrow
@@ -279,11 +279,7 @@ myProjects:
  #       iconBackground: 'linear-gradient(to bottom right, #F06292 0%, #EF5350 100%)'
  #       url: https://ialoe.gitee.io/yihaodian/
  #       desc: 一号店商城首页Demo(纯HTML+CSS)
- #   水果管理系统:
- #     icon: fas fa-file-alt
- #     iconBackground: 'linear-gradient(to bottom right, #66BB6A 0%, #81C784 100%)'
- #     url: https://gitee.com/ialoe/fruit
- #     desc: 在JSP页面对数据库中水果数据实现增删改查(页面待美化...)
+
 
 # config my skills informations in about page.
 # If you don't want to display this `My Skills` content, you can deactivate or delete this configuration.
@@ -502,7 +498,7 @@ reprint:
 
 #背景canvas-nest
 canvas_nest:
-  enable: true  #false
+  enable: false  #false
   color: 0,0,255 # 线条颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   pointColor: 0,0,255 # 交点颜色, 默认: '0,0,0' ；三个数字分别为(R,G,B)，注意用,分割
   opacity: 0.7 # 线条透明度（0~1）, 默认: 0.5
