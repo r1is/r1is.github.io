@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>逆向入门 | RyzeZR&#39;s Blog</title>
+  
+  <subtitle>Welcome to Ryze&#39;s Blog</subtitle>
+  <link href="https://ryzezr.com/atom.xml" rel="self"/>
+  
+  <link href="https://ryzezr.com/"/>
+  <updated>2021-07-18T10:11:05.541Z</updated>
+  <id>https://ryzezr.com/</id>
+  
+  <author>
+    <name>Ryze</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>结构体内存结构观察</title>
+    <link href="https://ryzezr.com/posts/58422.html"/>
+    <id>https://ryzezr.com/posts/58422.html</id>
+    <published>2021-07-18T05:13:09.000Z</published>
+    <updated>2021-07-18T10:11:05.541Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;代码&quot;&gt;&lt;a href=&quot;#代码&quot; class=&quot;headerlink&quot; title=&quot;代码&quot;&gt;&lt;/a&gt;代码&lt;/h2&gt;&lt;pre class=&quot;line-numbers language-c&quot; data-language=&quot;c&quot;&gt;&lt;code</summary>
+        
+      
+    
+    
+    
+    <category term="CR逆向学习" scheme="https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C语言入门" scheme="https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>函数调用内存结构简要分析</title>
+    <link href="https://ryzezr.com/posts/14982.html"/>
+    <id>https://ryzezr.com/posts/14982.html</id>
+    <published>2021-07-17T20:48:47.000Z</published>
+    <updated>2021-07-17T20:54:50.856Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;函数调用流程&quot;&gt;&lt;a href=&quot;#函数调用流程&quot; class=&quot;headerlink&quot; title=&quot;函数调用流程&quot;&gt;&lt;/a&gt;函数调用流程&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;按调用约定传递参数&lt;br&gt;1.1. 调用约定</summary>
+        
+      
+    
+    
+    
+    <category term="CR逆向学习" scheme="https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C语言入门" scheme="https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>基础正则语法</title>
+    <link href="https://ryzezr.com/posts/42609.html"/>
+    <id>https://ryzezr.com/posts/42609.html</id>
+    <published>2021-07-17T17:18:36.000Z</published>
+    <updated>2021-07-17T17:25:47.550Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;正则表达式语法&quot;&gt;&lt;a href=&quot;#正则表达式语法&quot; class=&quot;headerlink&quot; title=&quot;正则表达式语法:&quot;&gt;&lt;/a&gt;正则表达式语法:&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;   a|b         匹配 a 或 b&lt;/li&gt;
+&lt;li&gt;  </summary>
+        
+      
+    
+    
+    
+    <category term="CR逆向学习" scheme="https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="正则" scheme="https://ryzezr.com/tags/%E6%AD%A3%E5%88%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>二(维)维数组与指针</title>
+    <link href="https://ryzezr.com/posts/13736.html"/>
+    <id>https://ryzezr.com/posts/13736.html</id>
+    <published>2021-07-17T14:15:16.000Z</published>
+    <updated>2021-07-17T14:26:08.196Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;指针与多维数组&quot;&gt;&lt;a href=&quot;#指针与多维数组&quot; class=&quot;headerlink&quot; title=&quot;指针与多维数组&quot;&gt;&lt;/a&gt;指针与多维数组&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数组名是第</summary>
+        
+      
+    
+    
+    
+    <category term="CR逆向学习" scheme="https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C语言入门" scheme="https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>结构体内存对齐笔记</title>
+    <link href="https://ryzezr.com/posts/40072.html"/>
+    <id>https://ryzezr.com/posts/40072.html</id>
+    <published>2021-07-17T13:02:19.000Z</published>
+    <updated>2021-07-18T10:18:13.904Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;结构体&quot;&gt;&lt;a href=&quot;#结构体&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="CR逆向学习" scheme="https://ryzezr.com/categories/CR%E9%80%86%E5%90%91%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="C语言入门" scheme="https://ryzezr.com/tags/C%E8%AF%AD%E8%A8%80%E5%85%A5%E9%97%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux PAM后门学习</title>
+    <link href="https://ryzezr.com/posts/32019.html"/>
+    <id>https://ryzezr.com/posts/32019.html</id>
+    <published>2021-06-27T09:55:44.000Z</published>
+    <updated>2021-07-17T13:39:46.583Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;Linux后渗透笔记-PAM后门&quot;&gt;&lt;a href=&quot;#Linux后渗透笔记-PAM后门&quot; class=&quot;headerlink&quot; title=&quot;Linux后渗透笔记 PAM后门&quot;&gt;&lt;/a&gt;Linux后渗透笔记</summary>
+        
+      
+    
+    
+    
+    <category term="Linux" scheme="https://ryzezr.com/categories/Linux/"/>
+    
+    
+    <category term="Linux学习" scheme="https://ryzezr.com/tags/Linux%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ssh服务端配置文件整理</title>
+    <link href="https://ryzezr.com/posts/3881.html"/>
+    <id>https://ryzezr.com/posts/3881.html</id>
+    <published>2021-06-27T09:27:57.000Z</published>
+    <updated>2021-06-27T09:43:44.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;1-ssh远程登录配置文件说明&quot;&gt;&lt;a href=&quot;#1-ssh远程登录配置文件说明&quot; class=&quot;headerlink&quot; title=&quot;1. ssh远程登录配置文件说明&quot;&gt;&lt;/a&gt;1. ssh远程登录配置文件说明&lt;/h3&gt;&lt;pre</summary>
+        
+      
+    
+    
+    
+    <category term="工具" scheme="https://ryzezr.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+    <category term="ssh配置文件" scheme="https://ryzezr.com/tags/ssh%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6/"/>
+    
+    <category term="ssh远程登录时遇到的问题" scheme="https://ryzezr.com/tags/ssh%E8%BF%9C%E7%A8%8B%E7%99%BB%E5%BD%95%E6%97%B6%E9%81%87%E5%88%B0%E7%9A%84%E9%97%AE%E9%A2%98/"/>
+    
+  </entry>
+  
+</feed>
