@@ -6,3 +6,7 @@ node_modules/
 public/
 .deploy*/
 *.yml
+.vscode
+.vimrc
+.zshrc
+.bashrc
