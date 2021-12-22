@@ -22,5 +22,10 @@
 ## 三、本地资料丢失后的流程
 当重装电脑之后，或者想在其他电脑上修改博客，可以使用下列步骤：
 1. 使用`git clone git@github.com:RyzeZR/RyzeZR.github.io.git`拷贝仓库（默认分支为`hexo`）；
-2. 在本地新拷贝的http://RyzeZR.github.io  件夹下通过`Git bash`依次执行下列指令：`npm install hexo`、`npm install`、`npm install hexo-deployer-git`（记得，不需要`hexo init`这条指令）。
+2. 在本地新拷贝的http://RyzeZR.github.io  件夹下通过`Git bash`依次执行下列指令：`npm install hexo`、`npm install`、`npm install hexo-deployer-git`（记得，不需要`hexo init`这条指令）。  
+
+
+test  
+test  
+test  
 
